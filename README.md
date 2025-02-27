@@ -1,1 +1,1 @@
-Clustering and fitting assignment
+Clustering and fitting
